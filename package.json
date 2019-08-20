@@ -1,5 +1,15 @@
 {
-    "name": "digimatix-internship",
-    "version": "1.0.0"
-  }
-  
+  "name": "digimatix-internship",
+  "version": "1.0.0",
+  "description": "A digimatix internship application",
+  "main": "index.html",
+  "scripts": {
+    "test": "console.log('test command...')"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.heroku.com/digimatix-internship.git"
+  },
+  "author": "Digimatix",
+  "license": "ISC"
+}
