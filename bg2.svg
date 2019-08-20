@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 100% 100%">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1.073" y1="-0.463" x2="-0.055" y2="1.207" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f4e342"/>
+      <stop offset="1" stop-color="#ee3474"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_1133" data-name="Group 1133" transform="translate(0 -0.416)">
+    <rect id="Main_Background" data-name="Main Background" class="cls-1" width="100%" height="100%" transform="translate(0 0.416)"/>
+    <g id="Background">
+      <g id="Group_1127" data-name="Group 1127" transform="translate(-9 19.145)">
+        <rect id="Rectangle_5346" data-name="Rectangle 5346" class="cls-2" width="90%" height="50%" rx="38" transform="translate(49 91.982)"/>
+        <rect id="Rectangle_5347" data-name="Rectangle 5347" class="cls-2" width="93%" height="53%" rx="38" transform="translate(40 83.309)"/>
+        <rect id="Rectangle_5348" data-name="Rectangle 5348" class="cls-2" width="95%" height="55%" rx="38" transform="translate(28 82.504)"/>
+      </g>
+    </g>
+  </g>
+</svg>
